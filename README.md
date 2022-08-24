@@ -15,10 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🚩 个人技能
-- 语言
-`golang`,`php`,`c++`,`java`
-- 数据库
-`mysql`,`redis`,`elasticsearch`
-👷‍♀️ 工作
-- Tencent
+🔭 Tencent
+
+🌱 Mit6.824 分布式系统
+
+📫 shangxiuneng95@163.com
