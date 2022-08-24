@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🚩 个人技能
+- 语言
+`golang`,`php`,`c++`,`java`
+- 数据库
+`mysql`,`redis`,`elasticsearch`
+👷‍♀️ 工作
+- Tencent
